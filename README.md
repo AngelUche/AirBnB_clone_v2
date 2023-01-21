@@ -1,5 +1,35 @@
 <center> <h1>HBNB - The Console</h1> </center>
 
+# Concepts
+
+Fir CI/CD hot-to
+
+    [CI/CD](https://intranet.alxswe.com/concepts/43)
+    
+    [AirBnB clone](https://intranet.alxswe.com/concepts/74)
+
+
+
+# Resources 
+
+    [How to use Fabric](https://intranet.alxswe.com/rltoken/O0PSIn8xJeyeKZadiQCwDQ)
+    
+    [How to use Fabric in Python](https://intranet.alxswe.com/rltoken/ExX8laA65oUjSH8BuEEoeQ)
+    
+    [Fabric and command line options](https://intranet.alxswe.com/rltoken/RsyBHJIhoVBhOcQN-xP4cg)
+    
+    [CI/CD concept page](https://intranet.alxswe.com/rltoken/M_3lKmMAGA2KWujegl-ibA)
+    
+    [Nginx configuration for beginners](https://intranet.alxswe.com/rltoken/Ik7Ax-XDGGPZ__BRN2MK5g)
+    
+    [Difference between root and alias on NGINX](https://intranet.alxswe.com/rltoken/jgPdZF4sWxGLhs7uhYOONw)
+    
+    [Fabric for Python 3](https://intranet.alxswe.com/rltoken/ljadvnqOr21Gy_UsVRIUPQ)
+    
+    [Fabric Documentation](https://intranet.alxswe.com/rltoken/iVwVTXoFjfHxJMnL_JlSpg)
+
+
+
 This repository contains the initial stage of a student project to build a clone of the AirBnB website. This stage implements a backend interface, or console, to manage program data. Console commands allow the user to create, update, and destroy objects, as well as manage file storage. Using a system of JSON serialization/deserialization, storage is persistent between sessions.
 
 ---
